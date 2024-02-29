@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dabis\\source\\repos\\QLSV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71485FBD-DE4E-41DA-8D1A-E3BEDF72F6D6}|QLSV\\QLSV.csproj|c:\\users\\dabis\\source\\repos\\qlsv\\qlsv\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71485FBD-DE4E-41DA-8D1A-E3BEDF72F6D6}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71485FBD-DE4E-41DA-8D1A-E3BEDF72F6D6}|QLSV\\QLSV.csproj|C:\\Users\\dabis\\source\\repos\\QLSV\\qlsv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71485FBD-DE4E-41DA-8D1A-E3BEDF72F6D6}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71485FBD-DE4E-41DA-8D1A-E3BEDF72F6D6}|QLSV\\QLSV.csproj|C:\\Users\\dabis\\source\\repos\\QLSV\\qlsv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71485FBD-DE4E-41DA-8D1A-E3BEDF72F6D6}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71485FBD-DE4E-41DA-8D1A-E3BEDF72F6D6}|QLSV\\QLSV.csproj|C:\\Users\\dabis\\source\\repos\\QLSV\\qlsv\\bllsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71485FBD-DE4E-41DA-8D1A-E3BEDF72F6D6}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\bllsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71485FBD-DE4E-41DA-8D1A-E3BEDF72F6D6}|QLSV\\QLSV.csproj|C:\\Users\\dabis\\source\\repos\\QLSV\\qlsv\\svdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71485FBD-DE4E-41DA-8D1A-E3BEDF72F6D6}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\svdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71485FBD-DE4E-41DA-8D1A-E3BEDF72F6D6}|QLSV\\QLSV.csproj|C:\\Users\\dabis\\source\\repos\\QLSV\\qlsv\\ttsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71485FBD-DE4E-41DA-8D1A-E3BEDF72F6D6}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\ttsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71485FBD-DE4E-41DA-8D1A-E3BEDF72F6D6}|QLSV\\QLSV.csproj|C:\\Users\\dabis\\source\\repos\\QLSV\\qlsv\\dataconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71485FBD-DE4E-41DA-8D1A-E3BEDF72F6D6}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\dataconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dabis\\source\\repos\\QLSV\\QLSV\\Form1.cs",
+              "RelativeDocumentMoniker": "QLSV\\Form1.cs",
+              "ToolTip": "C:\\Users\\dabis\\source\\repos\\QLSV\\QLSV\\Form1.cs [Design]",
+              "RelativeToolTip": "QLSV\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T18:04:19.816Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dabis\\source\\repos\\QLSV\\QLSV\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "QLSV\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\dabis\\source\\repos\\QLSV\\QLSV\\Form1.Designer.cs",
+              "RelativeToolTip": "QLSV\\Form1.Designer.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAmwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T18:03:34.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dabis\\source\\repos\\QLSV\\QLSV\\Form1.cs",
+              "RelativeDocumentMoniker": "QLSV\\Form1.cs",
+              "ToolTip": "C:\\Users\\dabis\\source\\repos\\QLSV\\QLSV\\Form1.cs",
+              "RelativeToolTip": "QLSV\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T17:59:15.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bllSV.cs",
+              "DocumentMoniker": "C:\\Users\\dabis\\source\\repos\\QLSV\\QLSV\\bllSV.cs",
+              "RelativeDocumentMoniker": "QLSV\\bllSV.cs",
+              "ToolTip": "C:\\Users\\dabis\\source\\repos\\QLSV\\QLSV\\bllSV.cs",
+              "RelativeToolTip": "QLSV\\bllSV.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T17:57:59.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SVDal.cs",
+              "DocumentMoniker": "C:\\Users\\dabis\\source\\repos\\QLSV\\QLSV\\SVDal.cs",
+              "RelativeDocumentMoniker": "QLSV\\SVDal.cs",
+              "ToolTip": "C:\\Users\\dabis\\source\\repos\\QLSV\\QLSV\\SVDal.cs",
+              "RelativeToolTip": "QLSV\\SVDal.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAADwv2AAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T17:56:45.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TTSV.cs",
+              "DocumentMoniker": "C:\\Users\\dabis\\source\\repos\\QLSV\\QLSV\\TTSV.cs",
+              "RelativeDocumentMoniker": "QLSV\\TTSV.cs",
+              "ToolTip": "C:\\Users\\dabis\\source\\repos\\QLSV\\QLSV\\TTSV.cs",
+              "RelativeToolTip": "QLSV\\TTSV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T17:55:36.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataConnection.cs",
+              "DocumentMoniker": "C:\\Users\\dabis\\source\\repos\\QLSV\\QLSV\\DataConnection.cs",
+              "RelativeDocumentMoniker": "QLSV\\DataConnection.cs",
+              "ToolTip": "C:\\Users\\dabis\\source\\repos\\QLSV\\QLSV\\DataConnection.cs",
+              "RelativeToolTip": "QLSV\\DataConnection.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T17:54:30.173Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
